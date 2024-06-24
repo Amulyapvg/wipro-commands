@@ -1,1 +1,0 @@
-nl data.txt | sort -nr | cut -f 2-
